@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040237
+# Name: S.KEERTHANA
+# Date: 05.09.2026
 
 
 # AIM:
@@ -37,6 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="719" height="670" alt="image" src="https://github.com/user-attachments/assets/1c0a44e5-125b-4faa-add5-f1423c284131" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="666" height="436" alt="image" src="https://github.com/user-attachments/assets/ad685962-c625-4018-8b7a-ca12ae886548" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="722" height="447" alt="image" src="https://github.com/user-attachments/assets/c089cf7e-ca83-4a34-98ae-450df6d5ea89" />
 
 
 
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="778" height="445" alt="image" src="https://github.com/user-attachments/assets/03518fe6-c677-4651-acf1-44fd30ab2cf0" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="236" height="624" alt="image" src="https://github.com/user-attachments/assets/cfae4dec-d418-4c6e-ad0a-a8a85b5ea812" />
 
 
 
@@ -116,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="750" height="599" alt="image" src="https://github.com/user-attachments/assets/fbe99d4d-1984-4608-b6a2-0851d1c11bfe" />
 
 
 
